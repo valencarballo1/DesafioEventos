@@ -83,4 +83,6 @@ function pay(){
     alert(`Precio $${total}`)
     innerHTML = "";
     total = 0;
+    document.querySelector(".button-checkout").innerHTML = `Pagar $${total}`
+
 }
