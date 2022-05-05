@@ -1,0 +1,19 @@
+.box{
+    /* border-radius: 5px #d4dad7; */
+    /* background: #b5bbb8; */
+    border: 5px rgb(107, 103, 103);
+    border-radius: 5px;
+    height: 100%;
+    width: 100%;
+    padding: 27px;
+    margin: 5px;
+    align-items: center;
+  }
+
+  .bg-color{
+    background: linear-gradient(50deg, rgb(107, 103, 103), rgb(66, 64, 64));
+  }
+
+  body{
+    background: radial-gradient(30deg, rgb(219, 209, 209), rgb(247, 233, 233));
+}
